@@ -1,4 +1,7 @@
 # LOOΠΔ ASCII Art
+
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
 My collection of ASCII art for LOOΠΔ, generated using [PicASCII](http://picascii.com/) and [Text-Image](https://www.text-image.com/convert/ascii.html).
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
@@ -14,4 +17,5 @@ Loona commenced their pre-debut project in August 2016, with each member releasi
 STAN LOONA.
 
 ## How?
+
 Under construction.
